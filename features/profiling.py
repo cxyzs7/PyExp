@@ -86,5 +86,6 @@ if __name__ == '__main__':
     # use cProfile
     result = expensive_function_1()
 
+    # use line profile
     result = expensive_function_2()
     
